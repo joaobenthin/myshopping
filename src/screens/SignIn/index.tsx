@@ -8,24 +8,18 @@ import { Input } from '../../components/Input';
 export function SignIn() {
   return (
     <Container>
-      <Title>MyShopping</Title>
+      <Title>muveshoppinglist</Title>
       <Subtitle>monte sua lista de compra te ajudar nas compras</Subtitle>
 
-      <Input
-        placeholder="e-mail"
-        keyboardType="email-address"
-      />
+      <Input placeholder="e-mail" keyboardType="email-address" />
 
-      <Input
-        placeholder="senha"
-        secureTextEntry
-      />
+      <Input placeholder="senha" secureTextEntry />
 
-      <Button title="Entrar" onPress={() => { }} />
+      <Button title="Entrar" onPress={() => {}} />
 
       <Account>
-        <ButtonText title="Recuperar senha" onPress={() => { }} />
-        <ButtonText title="Criar minha conta" onPress={() => { }} />
+        <ButtonText title="Recuperar senha" onPress={() => {}} />
+        <ButtonText title="Criar minha conta" onPress={() => {}} />
       </Account>
     </Container>
   );

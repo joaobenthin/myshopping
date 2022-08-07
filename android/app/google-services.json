@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "620198182146",
+    "project_id": "muveshoppinglist-bc5c6",
+    "storage_bucket": "muveshoppinglist-bc5c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620198182146:android:4c2ec69d4e12125459161b",
+        "android_client_info": {
+          "package_name": "com.muveshoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620198182146-fim78c22rlrlgmphu98i9hric4g1eh0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muveshoppinglist",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "620198182146-231d3eduh0sp2rqs408faf3p09581nq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZhi561VTZasK5cFbJY1tRrr6chyS3XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620198182146-231d3eduh0sp2rqs408faf3p09581nq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620198182146:android:77fd9cd156aa08b159161b",
+        "android_client_info": {
+          "package_name": "com.muveshoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620198182146-231d3eduh0sp2rqs408faf3p09581nq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZhi561VTZasK5cFbJY1tRrr6chyS3XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620198182146-231d3eduh0sp2rqs408faf3p09581nq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620198182146:android:c02eedfba53795cb59161b",
+        "android_client_info": {
+          "package_name": "com.shoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620198182146-231d3eduh0sp2rqs408faf3p09581nq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZhi561VTZasK5cFbJY1tRrr6chyS3XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620198182146-231d3eduh0sp2rqs408faf3p09581nq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.myshopping;
+package com.muveshoppinglist;
 
 import android.os.Bundle;
 
